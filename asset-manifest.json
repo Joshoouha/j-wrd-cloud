@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/j-wrd-cloud%20/static/css/main.3925630f.css",
+    "main.js": "/j-wrd-cloud%20/static/js/main.5a945501.js",
+    "index.html": "/j-wrd-cloud%20/index.html",
+    "main.3925630f.css.map": "/j-wrd-cloud%20/static/css/main.3925630f.css.map",
+    "main.5a945501.js.map": "/j-wrd-cloud%20/static/js/main.5a945501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3925630f.css",
+    "static/js/main.5a945501.js"
+  ]
+}
